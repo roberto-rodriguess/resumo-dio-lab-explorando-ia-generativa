@@ -1,0 +1,1 @@
+# resumo-dio-lab-explorando-ia-generativa
